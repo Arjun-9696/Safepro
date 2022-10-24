@@ -1,0 +1,20 @@
+.student_div {
+    position: absolute;
+    /* top:600px; */
+    margin-top: 450px;
+    height: 120%;
+    width: 80%;
+    padding: 100px;
+    align-items: center;
+    margin-left: 80px;
+}
+
+.input_div {
+    width: 95%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
+    grid-gap: 70px;
+    padding: initial;
+    margin: 2.5%;
+    justify-content: center;
+}

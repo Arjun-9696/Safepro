@@ -1,0 +1,58 @@
+.footer{
+    width: 84%;
+    height:200px;
+    margin-top:100%;
+    background-color:#123b6e;
+    padding:120px;
+    align-items:center;
+}
+.footer>img{
+    padding:20px;
+    margin-left: 80px;
+    margin-top: -100px;
+}
+.footer_sub_div{
+display: flex;
+    gap: 80px;
+}
+.footer_left{
+    width:600px;
+    margin-left:100px;
+    height:250px;
+    background-color:#095192;
+}
+.footer_left>h1{
+    text-align:center;
+    padding: 12%;
+    color:white;
+}
+.footer_right{
+    width: 400px;
+    height: 250px;
+    background-color: #095192;
+    color: white;
+}
+.footer_right>h6{
+    margin-left: 20px;
+   
+}
+.input_mail{
+    background-color:#256ab0;
+    display:flex;
+    padding-left:20px;
+    margin:20px;
+    width: 80%;
+    gap:50px;
+    height:50px;
+    color:#010c16;
+}
+button{
+    width: 150px;
+    margin:5px;
+    background-color:#095192;
+    border: none;
+    color:white;
+}
+.social{
+    margin-left: 20px;
+}
