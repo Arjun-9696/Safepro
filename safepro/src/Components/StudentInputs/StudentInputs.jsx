@@ -173,9 +173,9 @@ function StudentInputs() {
                                         aria-label="toggle password visibility"
                                         onClick={handleUpload}
                                         edge="end"
-                                        style={{ marginRight: "-22px" }}
+                                        style={{ marginLeft: "-100px" }}
                                     >
-                                        <FileUploadIcon sx={{ color: "white", backgroundColor: "#095192", height: "54px", width: "54px", borderRadius: "2px", marginLeft: "80px" }} />
+                                        <FileUploadIcon sx={{ color: "white", backgroundColor: "#095192", height: "54px", width: "54px", borderRadius: "2px", marginLeft: "100px" }} />
                                     </IconButton>
                                 </InputAdornment>
                             }
