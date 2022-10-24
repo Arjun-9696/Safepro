@@ -8,7 +8,9 @@
     align-items: center;
     margin-left: 80px;
 }
-
+.student_div>h2{
+margin-left:50px;
+}
 .input_div {
     width: 95%;
     display: grid;
